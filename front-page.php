@@ -55,7 +55,7 @@
 
           $image = get_sub_field('image');
           $text = get_sub_field('text');
-          ?>
+          ?> 
 
     <div class="box">
       <div class="imgBx">
